@@ -1,4 +1,4 @@
-# SpringMcv
+# SpringMvc
 Basic Integration of SpringMvc+mysql
 
 Spring Version:4.1.1.RELEASE
